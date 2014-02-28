@@ -1,0 +1,14 @@
+# Logfile created on 2014-02-28 15:20:49 -0300 by logger.rb/44203
+I, [2014-02-28T15:20:49.543245 #9940]  INFO -- : 0:  timers (1.1.0) from /Users/codeminer42/.rvm/gems/ruby-2.1.0/specifications/timers-1.1.0.gemspec
+I, [2014-02-28T15:20:53.540565 #9940]  INFO -- : 0:  celluloid (0.15.2) from /Users/codeminer42/.rvm/gems/ruby-2.1.0/specifications/celluloid-0.15.2.gemspec
+I, [2014-02-28T15:21:00.309653 #9940]  INFO -- : 0:  nio4r (1.0.0) from /Users/codeminer42/.rvm/gems/ruby-2.1.0/specifications/nio4r-1.0.0.gemspec
+I, [2014-02-28T15:21:03.174857 #9940]  INFO -- : 0:  celluloid-io (0.15.0) from /Users/codeminer42/.rvm/gems/ruby-2.1.0/specifications/celluloid-io-0.15.0.gemspec
+I, [2014-02-28T15:21:05.814648 #9940]  INFO -- : 0:  dotenv (0.10.0) from /Users/codeminer42/.rvm/gems/ruby-2.1.0/specifications/dotenv-0.10.0.gemspec
+I, [2014-02-28T15:21:16.506068 #9940]  INFO -- : 0:  ffi (1.9.3) from /Users/codeminer42/.rvm/gems/ruby-2.1.0/specifications/ffi-1.9.3.gemspec
+I, [2014-02-28T15:21:16.506872 #9940]  INFO -- : 0:  json (1.8.1) from /Users/codeminer42/.rvm/rubies/ruby-2.1.0/lib/ruby/gems/2.1.0/specifications/default/json-1.8.1.gemspec
+I, [2014-02-28T15:21:16.507345 #9940]  INFO -- : 0:  multi_xml (0.5.5) from /Users/codeminer42/.rvm/gems/ruby-2.1.0/specifications/multi_xml-0.5.5.gemspec
+I, [2014-02-28T15:21:20.268049 #9940]  INFO -- : 0:  httparty (0.13.0) from /Users/codeminer42/.rvm/gems/ruby-2.1.0/specifications/httparty-0.13.0.gemspec
+I, [2014-02-28T15:21:23.896392 #9940]  INFO -- : 0:  rb-fsevent (0.9.4) from /Users/codeminer42/.rvm/gems/ruby-2.1.0/specifications/rb-fsevent-0.9.4.gemspec
+I, [2014-02-28T15:21:26.455318 #9940]  INFO -- : 0:  rb-inotify (0.9.3) from /Users/codeminer42/.rvm/gems/ruby-2.1.0/specifications/rb-inotify-0.9.3.gemspec
+I, [2014-02-28T15:21:28.884845 #9940]  INFO -- : 0:  listen (2.6.2) from /Users/codeminer42/.rvm/gems/ruby-2.1.0/specifications/listen-2.6.2.gemspec
+I, [2014-02-28T15:21:28.885382 #9940]  INFO -- : 0:  bundler (1.5.1) from /Users/codeminer42/.rvm/gems/ruby-2.1.0/specifications/bundler-1.5.1.gemspec
